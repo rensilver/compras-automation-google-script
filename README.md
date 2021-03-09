@@ -1,7 +1,7 @@
 ## Compras-Automation-Google-Script
 
 ### Descrição
-Automação do fluxo de Compras de TI em Google Apps Script (JS, HTML, CSS) no Google Sheets (Planilha). Projeto implantado no cliente onde trabalho fixo como terceiro. Os dados utilizados são obtidos da planilha Google de controle de compras do Cliente, simulando um database.
+Automação do fluxo de Compras de TI em Google Apps Script (based on JS) e HTML no Google Sheets (Planilha). Projeto implantado no cliente onde trabalho fixo como terceiro. Os dados utilizados são obtidos da planilha Google de controle de compras do Cliente, simulando um database.
 
 **Referência**: https://developers.google.com/apps-script/overview
 
