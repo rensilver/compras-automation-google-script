@@ -5,7 +5,11 @@ Automação do fluxo de Compras de TI em Google Apps Script (JS, HTML, CSS) no G
 
 **Referência**: https://developers.google.com/apps-script/overview
 
-### Imagem abaixo mostra a mensagem que o usuário recebe como status quando o pedido está para chegar.
+#### O logotipo da empresa aparece no topo de cada mensagem a seguir e foi omitido por sigilo e direitos autorais.
+
+### O nome do usuário que aparece e os dados do pedido na parte de baixo da mensagem são obtidos via script diretamente da planilha respectiva.
+
+### Imagem abaixo mostra a mensagem que o usuário recebe como status quando o pedido está para chegar. 
 
 ![alt text](https://github.com/rensilver/image-repo-github/blob/main/pedidochegando-pjt-adm-compras.PNG)
 
